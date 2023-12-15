@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shrutiii1906/Pocket-Notes-App.git/static/css/main.fdab1e0a.css",
+    "main.js": "/Shrutiii1906/Pocket-Notes-App.git/static/js/main.5269d794.js",
+    "static/media/notes.jpg": "/Shrutiii1906/Pocket-Notes-App.git/static/media/notes.50346fd7c018039cfbb1.jpg",
+    "static/media/home.png": "/Shrutiii1906/Pocket-Notes-App.git/static/media/home.051c5dd6cf08bd17366f.png",
+    "index.html": "/Shrutiii1906/Pocket-Notes-App.git/index.html",
+    "main.fdab1e0a.css.map": "/Shrutiii1906/Pocket-Notes-App.git/static/css/main.fdab1e0a.css.map",
+    "main.5269d794.js.map": "/Shrutiii1906/Pocket-Notes-App.git/static/js/main.5269d794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdab1e0a.css",
+    "static/js/main.5269d794.js"
+  ]
+}
